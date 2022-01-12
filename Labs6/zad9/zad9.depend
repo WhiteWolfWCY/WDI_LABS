@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1642025919 source:c:\users\mateu\onedrive\pulpit\wdi_labs\wdi_labs\labs6\zad9\main.c
+	<stdio.h>
+	<stdlib.h>
+	<time.h>
+
